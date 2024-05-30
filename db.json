@@ -1,33 +1,126 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
+  "cats": [
+      {
+          "name": "Leo",
+          "breed": "Bengal",
+          "age": 4,
+          "image": "https://example.com/cat10.jpg"
+      },
+      {
+          "name": "Bella",
+          "breed": "British Shorthair",
+          "age": 11,
+          "image": "https://example.com/cat2.jpg"
+      },
+      {
+          "name": "Shadow",
+          "breed": "Maine Coon",
+          "age": 1,
+          "image": "https://example.com/cat7.jpg"
+      },
+      {
+          "name": "Shadow",
+          "breed": "Maine Coon",
+          "age": 14,
+          "image": "https://example.com/cat8.jpg"
+      },
+      {
+          "name": "Oliver",
+          "breed": "Persian",
+          "age": 10,
+          "image": "https://example.com/cat9.jpg"
+      },
+      {
+          "name": "Whiskers",
+          "breed": "British Shorthair",
+          "age": 14,
+          "image": "https://example.com/cat8.jpg"
+      },
+      {
+          "name": "Simba",
+          "breed": "Abyssinian",
+          "age": 9,
+          "image": "https://example.com/cat3.jpg"
+      },
+      {
+          "name": "Oliver",
+          "breed": "Persian",
+          "age": 3,
+          "image": "https://example.com/cat6.jpg"
+      },
+      {
+          "name": "Whiskers",
+          "breed": "Bengal",
+          "age": 8,
+          "image": "https://example.com/cat10.jpg"
+      },
+      {
+          "name": "Luna",
+          "breed": "Persian",
+          "age": 1,
+          "image": "https://example.com/cat3.jpg"
+      }
   ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
+  "dogs": [
+      {
+          "name": "Max",
+          "breed": "Golden Retriever",
+          "age": 14,
+          "image": "https://example.com/dog2.jpg"
+      },
+      {
+          "name": "Luna",
+          "breed": "Poodle",
+          "age": 12,
+          "image": "https://example.com/dog9.jpg"
+      },
+      {
+          "name": "Daisy",
+          "breed": "Boxer",
+          "age": 11,
+          "image": "https://example.com/dog5.jpg"
+      },
+      {
+          "name": "Bella",
+          "breed": "Dachshund",
+          "age": 8,
+          "image": "https://example.com/dog3.jpg"
+      },
+      {
+          "name": "Lucy",
+          "breed": "German Shepherd",
+          "age": 1,
+          "image": "https://example.com/dog8.jpg"
+      },
+      {
+          "name": "Lucy",
+          "breed": "Dachshund",
+          "age": 9,
+          "image": "https://example.com/dog4.jpg"
+      },
+      {
+          "name": "Charlie",
+          "breed": "German Shepherd",
+          "age": 13,
+          "image": "https://example.com/dog2.jpg"
+      },
+      {
+          "name": "Bella",
+          "breed": "Golden Retriever",
+          "age": 7,
+          "image": "https://example.com/dog1.jpg"
+      },
+      {
+          "name": "Buddy",
+          "breed": "Rottweiler",
+          "age": 10,
+          "image": "https://example.com/dog10.jpg"
+      },
+      {
+          "name": "Rocky",
+          "breed": "Bulldog",
+          "age": 5,
+          "image": "https://example.com/dog5.jpg"
+      }
   ]
 }
