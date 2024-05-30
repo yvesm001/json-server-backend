@@ -1,126 +1,146 @@
 {
   "cats": [
       {
-          "name": "Leo",
-          "breed": "Bengal",
-          "age": 4,
-          "image": "https://example.com/cat10.jpg"
-      },
-      {
+          "id": "582b9274-dacb-4cfc-8af3-eb3397a469ea",
           "name": "Bella",
-          "breed": "British Shorthair",
-          "age": 11,
-          "image": "https://example.com/cat2.jpg"
-      },
-      {
-          "name": "Shadow",
-          "breed": "Maine Coon",
-          "age": 1,
-          "image": "https://example.com/cat7.jpg"
-      },
-      {
-          "name": "Shadow",
-          "breed": "Maine Coon",
-          "age": 14,
-          "image": "https://example.com/cat8.jpg"
-      },
-      {
-          "name": "Oliver",
-          "breed": "Persian",
-          "age": 10,
-          "image": "https://example.com/cat9.jpg"
-      },
-      {
-          "name": "Whiskers",
-          "breed": "British Shorthair",
-          "age": 14,
-          "image": "https://example.com/cat8.jpg"
-      },
-      {
-          "name": "Simba",
-          "breed": "Abyssinian",
-          "age": 9,
-          "image": "https://example.com/cat3.jpg"
-      },
-      {
-          "name": "Oliver",
-          "breed": "Persian",
+          "breed": "Ragdoll",
           "age": 3,
+          "image": "https://example.com/cat5.jpg"
+      },
+      {
+          "id": "e41f830e-be23-48bc-9c3e-668d3b467f7c",
+          "name": "Chloe",
+          "breed": "Bengal",
+          "age": 9,
+          "image": "https://example.com/cat5.jpg"
+      },
+      {
+          "id": "a4ab838d-7b9b-45d6-8b34-de8d4fb03fd0",
+          "name": "Fluffy",
+          "breed": "British Shorthair",
+          "age": 7,
+          "image": "https://example.com/cat8.jpg"
+      },
+      {
+          "id": "d1b19cec-3171-4cda-9cfe-1da941bd0786",
+          "name": "Chloe",
+          "breed": "Birman",
+          "age": 10,
           "image": "https://example.com/cat6.jpg"
       },
       {
+          "id": "bdd295aa-987e-44c3-b4c2-6b1ef046e008",
           "name": "Whiskers",
-          "breed": "Bengal",
-          "age": 8,
+          "breed": "Maine Coon",
+          "age": 3,
+          "image": "https://example.com/cat9.jpg"
+      },
+      {
+          "id": "1bfa505d-c00f-4456-be3f-4ed649249bdb",
+          "name": "Mittens",
+          "breed": "Scottish Fold",
+          "age": 10,
           "image": "https://example.com/cat10.jpg"
       },
       {
-          "name": "Luna",
-          "breed": "Persian",
+          "id": "9b004b53-eed6-4d32-a40d-609aa355fb9f",
+          "name": "Simba",
+          "breed": "Scottish Fold",
           "age": 1,
+          "image": "https://example.com/cat9.jpg"
+      },
+      {
+          "id": "5aa514b8-084b-4a98-b33f-d4fa170ff030",
+          "name": "Whiskers",
+          "breed": "Abyssinian",
+          "age": 8,
+          "image": "https://example.com/cat8.jpg"
+      },
+      {
+          "id": "a3d521c2-824f-4517-b17d-d0e89aa4a214",
+          "name": "Bella",
+          "breed": "Siamese",
+          "age": 11,
           "image": "https://example.com/cat3.jpg"
+      },
+      {
+          "id": "d3dff93e-26a1-4c2f-a9ea-738b44c97bfb",
+          "name": "Simba",
+          "breed": "Scottish Fold",
+          "age": 5,
+          "image": "https://example.com/cat8.jpg"
       }
   ],
   "dogs": [
       {
+          "id": "bf1dd786-3a93-4b69-a3b8-0d29977f872e",
           "name": "Max",
-          "breed": "Golden Retriever",
-          "age": 14,
-          "image": "https://example.com/dog2.jpg"
-      },
-      {
-          "name": "Luna",
-          "breed": "Poodle",
-          "age": 12,
-          "image": "https://example.com/dog9.jpg"
-      },
-      {
-          "name": "Daisy",
-          "breed": "Boxer",
-          "age": 11,
-          "image": "https://example.com/dog5.jpg"
-      },
-      {
-          "name": "Bella",
-          "breed": "Dachshund",
-          "age": 8,
-          "image": "https://example.com/dog3.jpg"
-      },
-      {
-          "name": "Lucy",
           "breed": "German Shepherd",
-          "age": 1,
-          "image": "https://example.com/dog8.jpg"
-      },
-      {
-          "name": "Lucy",
-          "breed": "Dachshund",
-          "age": 9,
-          "image": "https://example.com/dog4.jpg"
-      },
-      {
-          "name": "Charlie",
-          "breed": "German Shepherd",
-          "age": 13,
-          "image": "https://example.com/dog2.jpg"
-      },
-      {
-          "name": "Bella",
-          "breed": "Golden Retriever",
-          "age": 7,
-          "image": "https://example.com/dog1.jpg"
-      },
-      {
-          "name": "Buddy",
-          "breed": "Rottweiler",
-          "age": 10,
+          "age": 6,
           "image": "https://example.com/dog10.jpg"
       },
       {
-          "name": "Rocky",
+          "id": "03d40aef-161e-4ef1-99ee-6058d63ff4cb",
+          "name": "Buddy",
           "breed": "Bulldog",
-          "age": 5,
+          "age": 7,
+          "image": "https://example.com/dog7.jpg"
+      },
+      {
+          "id": "5d7e9e2c-c9eb-41a8-b36f-bd621ca8f19e",
+          "name": "Rocky",
+          "breed": "Dachshund",
+          "age": 6,
           "image": "https://example.com/dog5.jpg"
+      },
+      {
+          "id": "b399b734-a4d1-47e2-a62d-d8ef8520ada9",
+          "name": "Molly",
+          "breed": "Poodle",
+          "age": 13,
+          "image": "https://example.com/dog4.jpg"
+      },
+      {
+          "id": "9bdacb13-75e2-4236-a477-b39f381d60a4",
+          "name": "Bailey",
+          "breed": "German Shepherd",
+          "age": 10,
+          "image": "https://example.com/dog4.jpg"
+      },
+      {
+          "id": "72aa011a-2c81-4f0a-8e51-9833d0b77bac",
+          "name": "Lucy",
+          "breed": "Dachshund",
+          "age": 4,
+          "image": "https://example.com/dog1.jpg"
+      },
+      {
+          "id": "4d7ded91-a0c9-4f7a-9ff2-f9a41ed95ce1",
+          "name": "Daisy",
+          "breed": "Golden Retriever",
+          "age": 1,
+          "image": "https://example.com/dog9.jpg"
+      },
+      {
+          "id": "a165b401-45fd-4e8f-8c38-0438a131ba12",
+          "name": "Bella",
+          "breed": "Golden Retriever",
+          "age": 3,
+          "image": "https://example.com/dog7.jpg"
+      },
+      {
+          "id": "15a90350-03a2-4638-b38a-ed8b9ea64b0c",
+          "name": "Buddy",
+          "breed": "Golden Retriever",
+          "age": 10,
+          "image": "https://example.com/dog6.jpg"
+      },
+      {
+          "id": "99801d11-e2f2-4ca5-b509-430ed1500cb5",
+          "name": "Charlie",
+          "breed": "Yorkshire Terrier",
+          "age": 8,
+          "image": "https://example.com/dog1.jpg"
       }
   ]
 }
