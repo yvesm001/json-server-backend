@@ -445,7 +445,7 @@
     {
         "id": 35,
         "name": "Clefairy",
-        "type": ["Fairy"],
+        "type": ["Normal"],
         "category": "Fairy Pokémon",
         "height": 0.6,
         "weight": 7.5,
@@ -458,7 +458,7 @@
     {
         "id": 36,
         "name": "Clefable",
-        "type": ["Fairy"],
+        "type": ["Normal"],
         "category": "Fairy Pokémon",
         "height": 1.3,
         "weight": 40.0,
@@ -497,7 +497,7 @@
     {
         "id": 39,
         "name": "Jigglypuff",
-        "type": ["Normal", "Fairy"],
+        "type": ["Normal"],
         "category": "Balloon Pokémon",
         "height": 0.5,
         "weight": 5.5,
@@ -510,7 +510,7 @@
     {
         "id": 40,
         "name": "Wigglytuff",
-        "type": ["Normal", "Fairy"],
+        "type": ["Normal"],
         "category": "Balloon Pokémon",
         "height": 1.0,
         "weight": 12.0,
@@ -1576,7 +1576,7 @@
     {
         "id": 122,
         "name": "Mr. Mime",
-        "type": ["Psychic", "Fairy"],
+        "type": ["Psychic"],
         "category": "Barrier Pokémon",
         "height": 1.3,
         "weight": 54.5,
