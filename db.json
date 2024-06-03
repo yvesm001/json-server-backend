@@ -1949,6 +1949,21 @@
         "encounter_areas": ["Cerulean Cave"],
         "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
         "sound": "https://play.pokemonshowdown.com/audio/cries/mewtwo.mp3"
-    }
-]
+    },
+    {
+        "id": 151,
+        "name": "Mew",
+        "type": ["Psychic"],
+        "category": "New Species Pokémon",
+        "height": 0.4,
+        "weight": 4.0,
+        "description": "A Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+        "learnable_moves": ["Pound", "Reflect Type", "Transform", "Mega Punch", "Metronome", "Psychic", "Barrier", "Ancient Power", "Amnesia", "Aura Sphere", "Mega Kick", "Light Screen", "Recover", "Safeguard", "Nasty Plot"],
+        "encounter_areas": ["Faraway Island"],
+        "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
+        "sound": "https://play.pokemonshowdown.com/audio/cries/mew.mp3"
+    }    
+], 
+"pokedex": {},
+"party" : {}
 }
