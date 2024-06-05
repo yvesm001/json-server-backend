@@ -125,7 +125,7 @@
         "height": 0.3,
         "weight": 2.9,
         "description": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
-        "learnable_moves": ["Tackle", "String Shot", "Bug Bite"],
+        "learnable_moves": ["Tackle", "String Shot", "Bug Bite", "Leech Life", "Iron Defense", "Protect", "Endure"],
         "encounter_areas": ["Viridian Forest", "Route 2", "Route 24"],
         "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
         "sound": "https://play.pokemonshowdown.com/audio/cries/caterpie.mp3"
@@ -138,7 +138,7 @@
         "height": 0.7,
         "weight": 9.9,
         "description": "This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
-        "learnable_moves": ["Harden"],
+        "learnable_moves": ["Harden", "Tackle", "String Shot", "Bug Bite", "Protect", "Endure", "Toxic", "Swagger", "Rest", "Snore", "Bide"],
         "encounter_areas": ["Viridian Forest", "Route 24"],
         "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
         "sound": "https://play.pokemonshowdown.com/audio/cries/metapod.mp3"
@@ -164,7 +164,7 @@
         "height": 0.3,
         "weight": 3.2,
         "description": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
-        "learnable_moves": ["Poison Sting", "String Shot", "Bug Bite"],
+        "learnable_moves": ["Poison Sting", "String Shot", "Bug Bite", "Poison Powder", "Bug Bite", "Protect", "Screech", "Fury Attack", "Toxic"],
         "encounter_areas": ["Viridian Forest", "Route 2", "Route 24"],
         "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
         "sound": "https://play.pokemonshowdown.com/audio/cries/weedle.mp3"
@@ -177,7 +177,7 @@
         "height": 0.6,
         "weight": 10.0,
         "description": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.",
-        "learnable_moves": ["Harden"],
+        "learnable_moves": ["Harden", "Poison Sting", "String Shot", "Bug Bite", "Electroweb", "Disable", "Toxic", "Swagger", "Protect"],
         "encounter_areas": ["Viridian Forest", "Route 24"],
         "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
         "sound": "https://play.pokemonshowdown.com/audio/cries/kakuna.mp3"
@@ -814,7 +814,7 @@
         "height": 0.9,
         "weight": 19.5,
         "description": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
-        "learnable_moves": ["Teleport"],
+        "learnable_moves": ["Teleport", "Confusion", "Hidden Power", "Calm Mind", "Psybeam", "Psychic", "Shadow Ball", "Signal Beam", "Psyshock", "Future Sight", "Trick", "Energy Ball", "Psych Up", "Dazzling Gleam", "Shadow Ball"],
         "encounter_areas": ["Route 24", "Route 25"],
         "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
         "sound": "https://play.pokemonshowdown.com/audio/cries/abra.mp3"
@@ -1672,7 +1672,7 @@
         "height": 0.9,
         "weight": 10.0,
         "description": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-        "learnable_moves": ["Splash", "Tackle", "Flail"],
+        "learnable_moves": ["Splash", "Tackle", "Flail", "Bounce", "Aqua Tail", "Hydro Pump", "Waterfall", "Rain Dance", "Dragon Dance", "Aqua Jet", "Water Pulse", "Whirlpool", "Surf"],
         "encounter_areas": ["Route 4", "Route 10", "Safari Zone"],
         "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
         "sound": "https://play.pokemonshowdown.com/audio/cries/magikarp.mp3"
@@ -1711,7 +1711,7 @@
         "height": 0.3,
         "weight": 4.0,
         "description": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
-        "learnable_moves": ["Transform"],
+        "learnable_moves": ["Transform", "Mimic", "Substitute", "Mirror Coat", "Hidden Power", "Imprison", "Copycat", "Transform Pulse"],
         "encounter_areas": ["Route 13", "Route 14", "Route 15", "Cerulean Cave"],
         "official_artwork": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
         "sound": "https://play.pokemonshowdown.com/audio/cries/ditto.mp3"
